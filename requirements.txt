@@ -1,4 +1,4 @@
 torch
 numpy
 streamlit
-torchvision
+torchvision=0.11
