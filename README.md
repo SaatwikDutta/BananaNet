@@ -1,8 +1,8 @@
 # BananaNet
 
 Steps to run this project:
-1. Open up a terminal
-2. clone this repo
+1. Open up a terminal.
+2. Clone this repository.
 3. ```$ cd BananaNet/```
 4. ```$ virtualenv .venv```
 5. ```$ .venv/Scripts/activate```
