@@ -38,7 +38,7 @@ model.eval()
 
 # for the page title and page icon
 
-plant_icon_path=Image.open('app-icon.jpg')
+plant_icon_path=Image.open('app-icon.png')
 st.set_page_config(
     page_title="Plant nutrition deficiency ",
     page_icon=plant_icon_path,
