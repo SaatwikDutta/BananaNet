@@ -1,5 +1,5 @@
 # BananaNet 
-BanananaNet is a CNN based web-app which takes an input image of a bananana plant and correctly diagnose if the plant have any form of nutrition deficiency.
+BananaNet is a CNN based web-app which takes an input image of a banana plant and correctly diagnose if the plant have any form of nutrition deficiency.
 
 Steps to run this project:
 1. Open up a terminal.
